@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+}
+
+svg {
+  width: 20px;
+  cursor: pointer;
+}
+
+.star {
+  fill: #ececec;
+  stroke: black;
+}
+
+.reset {
+  width: 15px;
+  padding-left: 10px;
+  display: none;
+}
